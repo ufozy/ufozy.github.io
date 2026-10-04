@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      "The Syntax of Markdown"
+subtitle:   "The Syntax of Markdown"
+date:       2026-10-4 14:30
+author:     "Jeff"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - markdown 
+---
+
 # The Syntax of Markdown
 
 ## 1. Editing Markdown Files in Visual Studio Code
