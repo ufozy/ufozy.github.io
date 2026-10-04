@@ -16,7 +16,7 @@ tags:
 
 Press `F1` or `Ctrl + Shift + P` to open the **Command Palette**, then choose the Markdown command you need.
 
-![Alt text](../img/in-post/2026-10-4-Markdown/01.png)
+![Alt text](/img/in-post/2026-10-4-Markdown/01.png)
 
 ---
 
@@ -187,10 +187,10 @@ https://google.com
 The basic syntax for an image is:
 
 ```markdown
-![Alt text](../img/in-post/2026-10-4-Markdown/01.png)
+![Alt text](/img/in-post/2026-10-4-Markdown/01.png)
 ```
 
-![Alt text](../img/in-post/2026-10-4-Markdown/01.png)
+![Alt text](/img/in-post/2026-10-4-Markdown/01.png)
 
 The text inside `[]` is called the **alt text**. It describes the image when the image cannot be displayed.
 
