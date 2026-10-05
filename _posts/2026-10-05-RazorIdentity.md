@@ -296,3 +296,9 @@ Using the scheme explicitly is clearer when multiple authentication schemes are 
 ```csharp
 await HttpContext.SignOutAsync("MyCoo
 ```
+
+## Source Code
+
+The complete source code for this article is available on GitHub:
+
+<https://github.com/ufozy/WebApp_Security>
